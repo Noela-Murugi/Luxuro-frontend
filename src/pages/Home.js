@@ -6,12 +6,10 @@ import NavBar from "../nav/NavBar"
 import { Link } from "react-router-dom";
 import { Button } from "../styles";
 import "../Landing.css";
-// import Footer from "../components/Footer"
 
 function Home(){
 
     return(
-        // <Wrapper>
         <>
         <NavBar/>
         <div className="landing" style={{
@@ -31,17 +29,11 @@ function Home(){
         <img className = "landingimg"src="src/home.jpg" alt=""/>
       </div>
     </div>
-    {/* <Footer/> */}
     </>
-        // </Wrapper>
     )
 
 }
 
-// const Wrapper = styled.section`
-//   max-width: 100%;
-//   margin: 40px auto;
-//   padding: 16px;
-// `;
+
 
 export default Home;
