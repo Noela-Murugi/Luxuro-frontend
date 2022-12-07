@@ -5,7 +5,6 @@ import { Button } from "../styles";
 
 export default function JobDetails() {
 
-
     return (
         <>
         <NavBar/>
