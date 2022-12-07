@@ -17,15 +17,15 @@ Luxuro...
 ## Sample Screenshots
 ### Home Page
 
-![home.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/home.png)
+![Screenshot from 2022-12-7 13-39-36.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/home.png)
 
 ### Stations Page
 
-![stations.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/job.png)
+![Screenshot from 2022-12-7 13-39-36.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/stations.png)
 
 ### Login Page
 
-![login.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/jobslist.png)
+![Screenshot from 2022-12-7 13-39-36.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
 
 ## Technologies Used
 
