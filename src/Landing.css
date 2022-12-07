@@ -1,0 +1,102 @@
+.landing{
+    /* width: 90%; */
+    margin: auto;
+    display: flex;
+    width: auto;
+    /* margin-top: 8em; */
+    height: calc(100vh - 80px);
+    background-image:url(./home.jpg);
+    margin-bottom: -53px;
+    background-repeat: no-repeat;
+  }
+
+  /* .landing div {
+    width: 50%;
+  } */
+
+  .anything {
+    color: white;
+    box-shadow: 2px 3px 12px #7038c4;
+    font-weight: bold;
+  }
+
+  .welcome-message h1{
+    font-weight: bolder;
+    font-size: 65px;
+    text-align: center;
+  }
+
+  /* .welcome-message h3 {
+    color: #616161d5;
+    font-size: 20px;
+    margin-top: 1.5em;
+  } */
+
+  .button {
+    padding: 8px 30px;
+    margin-top: 2em;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    border-radius: 5px;
+    text-align: center;
+    position: center;
+  }
+
+  .button:hover {
+    background-color: deeppink;
+    color: white;
+  }
+
+  .hero-image img {
+    width: auto;
+  }
+
+
+
+
+
+  .Jobs {
+    height: calc(100vh - 40px);
+  }
+
+  .jobs-container {
+      width: 85%;
+      margin: 0 auto;
+    }
+
+  .jobs-container h2 {
+      text-align: center;
+  }
+
+  .wera-container {
+      line-height: 2em;
+  }
+
+  .wera {
+    width: 25%;
+    padding: 15px;
+    margin-top: 2.5em;
+    float: left;
+  }
+
+  .wera img {
+    width: 100%;
+    height: 200px;
+  }
+
+  span {
+    font-weight: 700;
+  }
+
+  .btnpp {
+    padding: 4px 7px;
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+  }
+
+  .btnpp:hover {
+    background-color: #7038c4;
+    color: white;
+  }
