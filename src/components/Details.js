@@ -11,15 +11,18 @@ export default function JobDetails() {
         <NavBar/>
 
         <div className='details'>
-            <h2>Station</h2>
+            {/* <h2>Station</h2> */}
             <div className='job-details'>
                 <div className='job-details-image'>
                 </div>
                 <div className='job-details-content'>
-                    <h3>Capacity: </h3>
-                    <h3>Features: </h3>
-                    <h3>Location:</h3>
-                    <h3>Reservation: </h3>
+                    <h3>Capacity: 20 - 50 people </h3>
+                    <h3>Features:
+                        * Flat screen Tv <br/>
+                        * A working area <br/>
+                        * Free Wi-Fi<br/>
+                        </h3>
+                    <h3>Location: Nairobi</h3>
                 </div>
             </div>
             <div className='action-buttons'>
