@@ -1,9 +1,9 @@
 # LUXURO
 ## Author
-+ Noela Murugi<br>
+Noela Murugi<br>
 
 ## Description
-Luxuro...
+Luxuro, a hotel resort that operates on reservations made.
 <br>
 [Backend Link](https://github.com/Noela-Murugi/Luxuro)
 
@@ -63,11 +63,11 @@ npm start
 5. Create the pull request.
 
 ## Live Page
-
+http://luxuro-frontend.vercel.app/
 
 ## Contact Informantion
 Incase of any enquiries or contributions, be sure to email me at :
-+ noela.murugi@student.moringaschool.com
+noela.murugi@student.moringaschool.com
 
 
 ## License
