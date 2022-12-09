@@ -23,7 +23,7 @@ function Home(){
         <h1 >
         Welcome to <span className="anything">LUXURO </span> <br></br>
         </h1>
-        <h2 style={{color:'grey'}}>A hotel resort. Make your reservations today!!</h2>
+        <h2 style={{color:'grey',float:'center'}}>A hotel resort. Make your reservations today!!</h2>
         <Button as={Link} to="/new" >Reserve</Button>
       </div>
       <div className="hero-image">
