@@ -1,13 +1,15 @@
 .details {
     width: auto;
     margin: 0 auto;
-    height: calc(100vh - 140px);
+    /* height: calc(100vh - 140px); */
     margin-top: 3em;
 }
 
 
 .job-details-content {
     float: center;
+    align-items:center;
+    justify-content: center;
 }
 
 /* img{
