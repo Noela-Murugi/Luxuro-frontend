@@ -2,6 +2,7 @@ import React from 'react'
 import NavBar from "../nav/NavBar"
 import { Link } from "react-router-dom";
 import { Button } from "../styles";
+import '../Details.css'
 
 export default function JobDetails() {
 
@@ -15,11 +16,10 @@ export default function JobDetails() {
                 <div className='job-details-image'>
                 </div>
                 <div className='job-details-content'>
-                    <h2>tt</h2>
-                    <h3>Job Requirement: </h3>
+                    <h3>Capacity: </h3>
+                    <h3>Features: </h3>
                     <h3>Location:</h3>
-                    <h3>Salary: </h3>
-                    <h3>Application Deadline:</h3>
+                    <h3>Reservation: </h3>
                 </div>
             </div>
             <div className='action-buttons'>
