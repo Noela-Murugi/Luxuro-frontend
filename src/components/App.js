@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { Switch, Route } from "react-router-dom";
+// import { Switch, Route } from "react-router";
+import {BrowserRouter as Route,Switch} from 'react-router-dom';
 import NavBar from "./NavBar";
 import Login from "../pages/Login";
 import Reservations from "../pages/Reservations";
@@ -36,7 +37,6 @@ function App() {
    <Login onLogin={setUser} />
    </Switch>
    <Footer/>
-
    </main>
    </>
    )
