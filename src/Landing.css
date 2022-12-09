@@ -8,6 +8,7 @@
     background-image:url(./home.jpg);
     margin-bottom: -53px;
     background-repeat: no-repeat;
+    background-size: 100%;
   }
 
   /* .landing div {
